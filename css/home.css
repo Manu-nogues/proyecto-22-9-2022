@@ -1,0 +1,117 @@
+body{ background-color: rgb(254, 254, 254);
+    margin: 0 0 0 0;
+}
+
+#head{
+    background-color: rgb(252, 252, 252);
+    height: 10vh;
+    display: flex;
+}
+
+#main{
+    background-color: rgb(255, 255, 255);
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+}
+#buscador{
+    height: 20vh;
+    border-radius: 40%;
+}
+
+#footer{
+    background-color: brown;
+    height: 20vh;
+}
+.head-c{
+   background-color: darkkhaki;
+}
+
+#head-izq{
+    background-color: beige;
+    width: 50vw;
+    height: 10vh;
+  
+}
+#head-mid{
+    background-color: rgb(255, 255, 255);
+    width: 10vw;
+    height: 50vh;
+}
+
+
+#head-der{
+    background-color: rgb(255, 244, 127);
+    width: 50vw;
+    height: 10vh;
+    display: flex;
+    justify-content: RIGHT;
+}
+#main-info{
+    background-color: rgb(255, 255, 255);
+    width: 50vw;
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+
+}
+#botones {
+    display: flex;
+}
+
+#footer-link{
+    background-color: chocolate;
+    display: flex;
+}
+
+#footer-link-izq{
+    background-color: forestgreen;
+   width: 30vw;
+}
+
+#footer-link-mid{
+    background-color: darkturquoise;
+    width: 40vw;
+}
+
+#footer-link-der{
+    background-color: fuchsia;
+    width: 30vw;
+
+}
+
+img{
+    width: 25vw;
+    
+}
+.letra-g{
+    color: blue;
+    font-size: 40px
+}
+.letra-o{
+    color: red;
+    font-size: 40px;
+}
+.letra-z{
+    color: rgb(255, 136, 0);
+    font-size: 40px;
+}
+.letra-g{
+    color: blue;
+    font-size: 40px;
+}
+.letra-l{
+    color: darkgreen;
+    font-size: 40px;
+}
+.letra-e{
+    color: red;
+    font-size: 40px;
+}
+
+
+.botoneshere {
+    background-color: rgb(174, 196, 196);
+}
